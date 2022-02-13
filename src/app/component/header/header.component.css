@@ -1,0 +1,13 @@
+.navbar{
+    background-color: deeppink;
+    text-align: center;
+}
+
+.navbar a{
+    color: antiquewhite ;
+    text-decoration: none;
+}
+
+p{
+    color: antiquewhite;
+}
